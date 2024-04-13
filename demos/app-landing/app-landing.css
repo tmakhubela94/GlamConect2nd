@@ -3,7 +3,7 @@
 -----------------------------------------------------------------*/
 
 :root {
-	--cnvs-themecolor: #267DF4;
+	--cnvs-themecolor: black;
 	--cnvs-themecolor-rgb: 38, 125, 244;
 
 	--cnvs-body-font: 'Poppins', sans-serif;
@@ -222,7 +222,7 @@
 .widget.widget_links.app_landing_widget_link li a {
 	padding: 0;
 	background: transparent;
-	color: #AAA;
+	color: #666;
 	font-size: 15px;
 }
 
